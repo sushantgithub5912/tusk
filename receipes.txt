@@ -3,3 +3,6 @@ welcome to kitches
 khiree
 chiken
 
+banana
+apple
+
